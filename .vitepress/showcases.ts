@@ -214,6 +214,18 @@ export const showcases: ShowCaseInfo[] = [
     cover: 'https://i.imgur.com/2eBJofY.png',
     datetime: '2024-04-10',
   },
+  {
+    title: 'Single Image Super-Resolution Based on Capsule Neural Networks',
+    author: {
+      name: 'George Corrêa de Araújo',
+      link: 'https://george-gca.github.io/',
+    },
+    at: 'Brazilian Conference on Intelligent Systems 2023',
+    slidesLink: 'https://george-gca.github.io/bracis_2023_srcaps/',
+    sourceLink: 'https://github.com/george-gca/bracis_2023_srcaps',
+    cover: 'https://raw.githubusercontent.com/george-gca/bracis_2023_srcaps/refs/heads/main/cover.png',
+    datetime: '2023-09-27',
+  },
   // Add yours here!
   {
     title: 'Yours?',
